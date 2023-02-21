@@ -7,6 +7,9 @@ __pycache__/
 # Python notebooks stuff
 .ipynb_checkpoints
 
+# .npy documents inside demos (not needed, just used for migration in colab)
+src/notebooks/*.npy
+
 # C extensions
 *.so
 
